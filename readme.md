@@ -1,5 +1,7 @@
 # CheckinAssistant
 
+> ⚠️ 有使用过的xd反馈这个脚本现在失效了而且使用后会导致网站无法打卡，原因应该是因为目前打卡的api失效了，网站也还没对请求老版本api进行迭代和处理。所以以下内容仅供参考！！！
+
 湖南大学打卡签到脚本，适用于https://fangkong.hnu.edu.cn/app/
 
 ### features
